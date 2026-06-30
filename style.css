@@ -1,3 +1,11 @@
 h1{
     text-align: center;
 }
+
+header{
+    width: 100%;
+    right:15% ;
+    background-color: rgba(249, 53, 53, 0.532);
+}
+
+ 
