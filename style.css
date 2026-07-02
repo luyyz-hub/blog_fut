@@ -7,10 +7,10 @@ header{
     width: 100%;
     right:30% ;
     background-color: rgb(39, 219, 39);
-    z-index: -1;
 }
 
 img{
     width: 100%;
-    right: 100%
+    right: 100%;
+    z-index: -1;
 }
