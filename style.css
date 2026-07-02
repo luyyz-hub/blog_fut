@@ -10,6 +10,7 @@ header{
 }
 
 img{
+    position:absolute;
     width: 100%;
     right: 100%;
     z-index: -1;
